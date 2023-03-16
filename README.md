@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyadulislam&label=Profile%20views&color=0e75b6&style=flat" alt="riyadulislam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyadulislam&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir ahmed" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,4 +19,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyadulislam&show_icons=true&locale=en" alt="tanvir-ahmed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyadulislam&" alt="riyadulislam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyadulislam&" alt="tanvir ahmed" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmed-shaon)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-shaon)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-shaon&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmed-shaon)  
+
+![Profile views](https://gpvc.arturio.dev/ahmed-shaon)  
