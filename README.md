@@ -102,13 +102,14 @@ I specialize in **backend architecture, API development, Shopify integrations, a
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmed-shaon&show_icons=true&theme=default" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-shaon&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-shaon&show_icons=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-shaon&layout=compact&theme=transparent" height="160"/>
 </p>
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=ahmed-shaon" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed-shaon&theme=default"/>
 </p>
+
 
 ---
 
