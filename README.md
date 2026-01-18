@@ -1,26 +1,83 @@
 <h1 align="center">Hi 👋, I'm Tanvir Ahmed Shiddiquee</h1>
-<h3 align="center">A passionate Full Stack Developer developer from Bangladesh</h3>
+<h3 align="center">Full Stack Developer | JavaScript Enthusiast | Building Scalable Web Apps</h3>
 
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyadulislam&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir ahmed" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tanvir-ahmed-shiddiquee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanvir-ahmed-shiddiquee/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ahmed.shaon.71/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ahmed.shaon.71/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmed-shaon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmed-shaon)  
+### 🧠 About Me
+I'm a **passionate Full Stack Developer** from **Bangladesh**. I love building user-centric, performant applications and constantly learning new technologies to level up my craft.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-shaon)](https://github.com/anuraghazra/github-readme-stats)
+- 💼 Currently building web apps and enhancing frontend & backend experience
+- 🌱 I’m currently learning advanced React patterns and backend scalability
+- 🛠 I enjoy solving real-world problems with elegant code
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-shaon&show_icons=true)  
+---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmed-shaon)  
+### 🔗 Connect with Me
 
-![Profile views](https://gpvc.arturio.dev/ahmed-shaon)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/tanvir-ahmed-shiddiquee/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+  </a>
+  <a href="https://www.facebook.com/ahmed.shaon.71/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="30" />
+  </a>
+  <a href="https://github.com/ahmed-shaon" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="30" height="30" />
+  </a>
+</p>
+
+---
+
+### 🛠 Skills & Technologies
+
+<p align="left">
+  <!-- Core Languages & Frameworks -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+
+  <!-- Backend & Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+
+  <!-- Version Control & Others -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+</p>
+
+---
+
+### 🔭 Recommended Projects  
+*(Add links to your best repositories — pin them on your GitHub profile for extra visibility)* 👇
+
+- 💻 **Project-Name-1** — *Brief description of what it does & tech stack*
+- 💡 **Project-Name-2** — *Another project highlight with what skills it showcases*
+- 🚀 **Project-Name-3** — *Maybe a deployed web app or open source contribution*
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-shaon&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-shaon&layout=compact)
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmed-shaon)
+
+---
+
+### 🎯 Let’s Build Something Together!
+
+I’m always open to **collaboration, open source contributions, or opportunities** — feel free to reach out! ✨
+
