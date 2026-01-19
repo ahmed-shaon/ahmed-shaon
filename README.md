@@ -21,17 +21,10 @@ I specialize in **backend architecture, API development, Shopify integrations, a
 
 ## 🔗 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/tanvir-ahmed-shiddiquee/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
-</a>
-<a href="https://github.com/ahmed-shaon" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="30"/>
-</a>
-<a href="mailto:ahmedtanvir444@gmail.com">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>
-</a>
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ahmed.shaon.71/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmedsha0n/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvir-ahmed-shiddiquee/) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tanvir_ahmed639)
 
 ---
 
@@ -57,29 +50,7 @@ I specialize in **backend architecture, API development, Shopify integrations, a
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 
----
 
-## 💼 Professional Experience
-
-### 🏢 Blinto LLC — Software Engineer (Level 2)
-📅 Jan 2025 – Oct 2025
-
-- Built scalable backend services & REST APIs using **Node.js + Express**
-- Developed secure **Shopify GraphQL integrations**
-- Implemented **API signature verification & authenticated fetch**
-- Automated scheduled jobs using **node-schedule**
-
----
-
-### 🏢 Blinto LLC — Full Stack Developer
-📅 May 2023 – Dec 2024
-
-- Built production-grade full stack apps using **Remix**
-- Designed webhook processing system using **better-queue**
-- Implemented authentication & session management
-- Automated transactional emails using **nodemailer**
-
----
 
 ## 🛍 Live Shopify App (Production)
 
