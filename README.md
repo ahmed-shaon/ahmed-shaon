@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Software Engineer** from **Dhaka, Bangladesh** with **2+ years of professional experience** building scalable web applications and production-grade Shopify apps.
+I'm a **Full Stack Software Engineer** from **Dhaka, Bangladesh** with **3 years of professional experience** building scalable web applications and production-grade Shopify apps.
 
 I specialize in **backend architecture, API development, Shopify integrations, and full-stack systems** with a strong focus on performance, security, and maintainability.
 
